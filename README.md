@@ -1,3 +1,2 @@
-# test1
-this is a useless project just to test gitHub
-this file will tell you how to use the project
+# a docker node image with a simple node app
+read the how to file to build the image
